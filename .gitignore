@@ -1,0 +1,5 @@
+admin.cfg
+license.cfg
+*.log
+data.pak
+profiles/
